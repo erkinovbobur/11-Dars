@@ -1,11 +1,12 @@
 *{
   margin: 0px;
   padding: 0px;
-  margin: auto 0;
+
   box-sizing: border-box;
   
 }
 
 .container{
   background-color: rgba(0, 0, 0, 0.17);
+  max-width: 1500px;
 }
